@@ -145,6 +145,7 @@
             this.Name = "frmTimerForStudy";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Timer For Study";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmTimerForStudy_FormClosing);
             this.ResumeLayout(false);
             this.PerformLayout();
 

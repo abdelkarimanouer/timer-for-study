@@ -128,5 +128,10 @@ namespace TimerForStudy
 
             ClearFile();
         }
+
+        private void frmTimerForStudy_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            SaveTimeInFile();
+        }
     }
 }
