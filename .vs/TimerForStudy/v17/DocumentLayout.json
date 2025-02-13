@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Programmer\\C# Coding\\TimerForStudy\\",
+  "WorkspaceRootPath": "C:\\Users\\anouer\\Desktop\\timer-for-study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{388CBC7A-BB2B-4EFF-B667-23D99E756D39}|TimerForStudy.csproj|D:\\Programmer\\C# Coding\\TimerForStudy\\frmtimerforstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{388CBC7A-BB2B-4EFF-B667-23D99E756D39}|TimerForStudy.csproj|c:\\users\\anouer\\desktop\\timer-for-study\\frmtimerforstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{388CBC7A-BB2B-4EFF-B667-23D99E756D39}|TimerForStudy.csproj|solutionrelative:frmtimerforstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FrmTimerForStudy.cs [Design]",
-              "DocumentMoniker": "D:\\Programmer\\C# Coding\\TimerForStudy\\FrmTimerForStudy.cs",
+              "DocumentMoniker": "C:\\Users\\anouer\\Desktop\\timer-for-study\\FrmTimerForStudy.cs",
               "RelativeDocumentMoniker": "FrmTimerForStudy.cs",
-              "ToolTip": "D:\\Programmer\\C# Coding\\TimerForStudy\\FrmTimerForStudy.cs [Design]",
+              "ToolTip": "C:\\Users\\anouer\\Desktop\\timer-for-study\\FrmTimerForStudy.cs [Design]",
               "RelativeToolTip": "FrmTimerForStudy.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T19:43:57.178Z",

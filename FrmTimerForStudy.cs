@@ -17,16 +17,28 @@ namespace TimerForStudy
         private byte _Minutes = 0;
         private byte _Hours = 0;
 
+        private string filePath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "HistoryTime.txt");
+
         public frmTimerForStudy()
         {
             InitializeComponent();
 
+            EnsureFileExists();
+
             LoadTimeFromFile();
+        }
+
+        private void EnsureFileExists()
+        {
+            if (!File.Exists(filePath))
+            {
+                File.WriteAllText(filePath, "0:0:0"); // Create file with default time
+            }
         }
 
         private void SaveTimeInFile()
         {
-            using (StreamWriter sr = new StreamWriter("D:\\Programmer\\C# Coding\\TimerForStudy\\HistoryTime.txt"))
+            using (StreamWriter sr = new StreamWriter(filePath))
             {
                 sr.WriteLine($"{_Hours}:{_Minutes}:{_Seconds}");
             }
@@ -34,7 +46,6 @@ namespace TimerForStudy
 
        private void LoadTimeFromFile()
        {
-            string filePath = "D:\\Programmer\\C# Coding\\TimerForStudy\\HistoryTime.txt";
             string timeString = File.ReadAllText(filePath);
 
             if (string.IsNullOrEmpty(timeString))
@@ -58,7 +69,7 @@ namespace TimerForStudy
         }
         private void ClearFile()
         {
-            using (StreamWriter sr = new StreamWriter("D:\\Programmer\\C# Coding\\TimerForStudy\\HistoryTime.txt"))
+            using (StreamWriter sr = new StreamWriter(filePath))
             {
                 sr.WriteLine($"{_Hours}:{_Minutes}:{_Seconds}");
             }

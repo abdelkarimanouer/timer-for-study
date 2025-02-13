@@ -8,3 +8,13 @@ D:\Programmer\C# Coding\TimerForStudy\obj\Release\TimerForStudy.csproj.GenerateR
 D:\Programmer\C# Coding\TimerForStudy\obj\Release\TimerForStudy.csproj.CoreCompileInputs.cache
 D:\Programmer\C# Coding\TimerForStudy\obj\Release\TimerForStudy.exe
 D:\Programmer\C# Coding\TimerForStudy\obj\Release\TimerForStudy.pdb
+C:\Users\anouer\Desktop\timer-for-study\bin\Release\TimerForStudy.exe.config
+C:\Users\anouer\Desktop\timer-for-study\bin\Release\TimerForStudy.exe
+C:\Users\anouer\Desktop\timer-for-study\bin\Release\TimerForStudy.pdb
+C:\Users\anouer\Desktop\timer-for-study\obj\Release\TimerForStudy.csproj.AssemblyReference.cache
+C:\Users\anouer\Desktop\timer-for-study\obj\Release\TimerForStudy.frmTimerForStudy.resources
+C:\Users\anouer\Desktop\timer-for-study\obj\Release\TimerForStudy.Properties.Resources.resources
+C:\Users\anouer\Desktop\timer-for-study\obj\Release\TimerForStudy.csproj.GenerateResource.cache
+C:\Users\anouer\Desktop\timer-for-study\obj\Release\TimerForStudy.csproj.CoreCompileInputs.cache
+C:\Users\anouer\Desktop\timer-for-study\obj\Release\TimerForStudy.exe
+C:\Users\anouer\Desktop\timer-for-study\obj\Release\TimerForStudy.pdb
