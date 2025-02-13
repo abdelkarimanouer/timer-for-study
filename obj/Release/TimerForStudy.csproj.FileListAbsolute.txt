@@ -1,0 +1,10 @@
+D:\Programmer\C# Coding\TimerForStudy\bin\Release\TimerForStudy.exe.config
+D:\Programmer\C# Coding\TimerForStudy\bin\Release\TimerForStudy.exe
+D:\Programmer\C# Coding\TimerForStudy\bin\Release\TimerForStudy.pdb
+D:\Programmer\C# Coding\TimerForStudy\obj\Release\TimerForStudy.csproj.AssemblyReference.cache
+D:\Programmer\C# Coding\TimerForStudy\obj\Release\TimerForStudy.frmTimerForStudy.resources
+D:\Programmer\C# Coding\TimerForStudy\obj\Release\TimerForStudy.Properties.Resources.resources
+D:\Programmer\C# Coding\TimerForStudy\obj\Release\TimerForStudy.csproj.GenerateResource.cache
+D:\Programmer\C# Coding\TimerForStudy\obj\Release\TimerForStudy.csproj.CoreCompileInputs.cache
+D:\Programmer\C# Coding\TimerForStudy\obj\Release\TimerForStudy.exe
+D:\Programmer\C# Coding\TimerForStudy\obj\Release\TimerForStudy.pdb
